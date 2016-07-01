@@ -21,4 +21,3 @@ com.assist4 <- function(x = "Assister", y = "Team", z = "Type", a = "Goalscorer"
 com.assist5 <- function(x = "Assister", y = "Team", z = "Type", a = "Goalscorer", b = "Distance") {
   str_interp("No one could have seen that coming! An absolute peach of a ${z} from an unlikely ${x} to ${a} who was ${b} yards away to get ${y} another goal. Unbelievable scenes from inside the stadium!")
 }
-
