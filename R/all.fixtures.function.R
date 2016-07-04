@@ -37,3 +37,5 @@ all.fixtures <- function(team){
   #opens table of the created dataframe
 
 }
+
+all.fixtures("Arsenal")
